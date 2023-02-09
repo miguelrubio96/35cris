@@ -6,5 +6,8 @@ public class EJ36 {
 		System.out.println("Hola");
 	}
 
+	public void eva (){
+		System.out.println("holi");
+	}
 } 
 //hola
