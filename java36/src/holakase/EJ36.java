@@ -1,6 +1,6 @@
-package java36;
+package holakase;
 
-public class java36 {
+public class EJ36 {
 
 	public void crishametidomano() {
 		System.out.println("Hola");
