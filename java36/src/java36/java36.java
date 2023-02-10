@@ -6,7 +6,7 @@ public class java36 {
 		System.out.println("Hola");
 	}
   public void miguel() {
-	  System.out.println("adios");
+	  System.out.println("yuvtg");
   }
 } 
 //hola
